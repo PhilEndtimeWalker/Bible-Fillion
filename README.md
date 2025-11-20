@@ -1,28 +1,28 @@
 # Bible-Fillion
-A VPL and a BBLI file, of the Fillion bible, extracted from La Porte Latine, and converted by me for eSword.
+Bible-Fillion
+=============
+Un fichier VPL et un fichier BBLI, de la bible de Fillion, extraits de La Porte Latine, et convertis par moi pour eSword.
 
-I am doing this for free, unsponsored, for public interest.
+Je fais cela gratuitement, sans sponsor, pour l'intérêt public.
 
-La Porte Latine (laportelatine.org) is considered a trusted source for the Fillion Bible because it is the official website of the Priestly Fraternity of Saint Pius X (FSSPX) in France, a Catholic organization dedicated to preserving traditional liturgy and doctrine. They publish the Sainte Bible translated by Abbé Louis-Claude Fillion directly from the Vulgate, which was the Church’s officially approved Latin text at the Council of Trent. This makes their digital edition both authoritative and aligned with Catholic tradition
+La Porte Latine (laportelatine.org) est considérée comme une source fiable pour la Bible de Fillion car c'est le site officiel de la Fraternité Sacerdotale Saint-Pie-X (FSSPX) en France, une organisation catholique dédiée à la préservation de la liturgie et de la doctrine traditionnelles.  Ils publient la Sainte Bible traduite par l'Abbé Louis-Claude Fillion directement à partir de la Vulgate, qui était le texte latin officiellement approuvé par l'Église au Concile de Trente.  Cela rend leur édition numérique à la fois autoritaire et alignée avec la tradition catholique.
 
-The Fillion bible is part of the public domain. You can redistribute, copy and modify the modules.
+La bible de Fillion fait partie du domaine public.  Vous pouvez redistribuer, copier et modifier les modules.
 
-The Fillion bible BBLI module that is currently available on Biblesupport.com contains errors. It is missing a complete paragraph, and it does not cite it's source (where the Fillion bible text was taken from (crosswire? eBible? other?)) and does not explain the processing and modifications made upon it. That is why I started a new module from scratch, from the .epub file at laportelatine.org.
+Le module BBLI de la Bible Fillion actuellement disponible sur Biblesupport.com contient des erreurs.  Il manque un paragraphe complet, et il ne cite pas sa source (d'où le texte de la bible de Fillion a été tiré (crosswire ? eBible ? autre ?)) et n'explique pas le traitement et les modifications qui y ont été apportés.  C'est pourquoi j'ai recommencé un nouveau module à partir de zéro, à partir du fichier .epub de laportelatine.org.
 
-Process
-=======
-I downloaded the .epub file, (https://laportelatine.org/medias/ebooks-livres-numeriques/la-sainte-bible-l-c-fillion) and renamed the .epub to a .ZIP file, then proceeded to extract the file. I manually copy pasted the text into a .TXT file.  Then, I converted the file into the VPL file you can download in the present repository, using python scripts, and bash scripts, so the conversion is not manual and faster and systematic. If anyone want to attemp such thing, I suggest you use CURSOR AI to help you with this process. If you do not have any backgroup in programming, that will certainly be a challenge for you. That is why I provide the VPL file, so you don`t have to go through that process.
+Processus
+=========
+J'ai téléchargé le fichier .epub, (https://laportelatine.org/medias/ebooks-livres-numeriques/la-sainte-bible-l-c-fillion) et renommé le .epub en un fichier .ZIP, puis j'ai procédé à l'extraction du fichier.  J'ai manuellement copié-collé le texte dans un fichier .TXT.  Ensuite, j'ai converti le fichier en fichier VPL que vous pouvez télécharger dans le présent dépôt, en utilisant des scripts Python et des scripts Bash, de sorte que la conversion ne soit pas manuelle, plus rapide et systématique.  Si quelqu'un veut tenter une telle chose, je vous suggère d'utiliser CURSOR AI pour vous aider dans ce processus.  Si vous n'avez aucune expérience en programmation, cela représentera certainement un défi pour vous.  C'est pourquoi je fournis le fichier VPL, afin que vous n'ayez pas à passer par ce processus.
 
-The VPL file can be used, in conjunction with "Simple Bible Reader 5.6.2" (or any other converter) to produce a bible module in another format, like Zefania, or BBLI, BBLX, or SWORD, so that you can use it in your own software (Xiphos, BibleTime, or else), locally on your computer.
+Le fichier VPL peut être utilisé, en conjonction avec "Simple Bible Reader 5.6.2" (ou tout autre convertisseur) pour produire un module biblique dans un autre format, comme Zefania, ou BBLI, BBLX, ou SWORD, afin que vous puissiez l'utiliser dans votre propre logiciel (Xiphos, BibleTime, ou autre), localement sur votre ordinateur.
 
-Why the Fillion?
-================
-Jerome, in 405, translated the greek and Hebrew texts into Latin. He was perfectly bilingual Latin(native)/Koine Greek(advanced level). He was also immersed in the greek and latin culture, making him a very special translator of the Greek and Hebrew texts. Abbe Fillion was also very proficient in Latin. The catholic church preserved that language over the centuries. Using the Fillion bible in your readings might allow you to discover or understand nuances that modern translations from the Massoretic text might hide, despite the fact that the Fillion bible is a translation of a translation.
+Pourquoi la Fillion?
+====================
+Jérôme, en 405, a traduit les textes grecs et hébreux en latin.  Il était parfaitement bilingue latin (natif) / grec koinè (niveau avancé).  Il était également immergé dans la culture grecque et latine, ce qui faisait de lui un traducteur très spécial des textes grecs et hébreux.  L'abbé Fillion était aussi très versé dans le latin.  L'église catholique a conservé cette langue au cours des siècles.  Utiliser la bible de Fillion dans vos lectures pourrait vous permettre de découvrir ou de comprendre des nuances que les traductions modernes à partir du texte massorétique pourraient cacher, malgré le fait que la bible de Fillion soit une traduction d'une traduction.
 
-I hope you will enjoy your new Fillion bible module for eSword.
-Greetings!
+J'espère que vous apprécierez votre nouveau module biblique Fillion pour eSword.
+
+Salutations !
+
 Phil
-
-
-
-
